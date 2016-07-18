@@ -1,0 +1,8 @@
+[package]
+name = "multicore"
+version = "0.0.1"
+authors = ["Peter Jin <peterhaijin@gmail.com>"]
+
+[lib]
+name = "multicore"
+path = "src/lib.rs"
